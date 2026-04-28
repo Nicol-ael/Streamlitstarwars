@@ -36,9 +36,16 @@ Permite explorar datos mediante filtros dinámicos y visualizaciones interactiva
 ---
 
 ## ⚙️ Instalación
+# Clonar repositorio
 git clone https://github.com/Nicol-ael/starwars-dashboard.git
+
+# Entrar a la carpeta
 cd starwars-dashboard
+
+# Instalar dependencias
 pip install -r requirements.txt
+
+# Ejecutar app
 streamlit run dashboard_starwars.py
 
 
