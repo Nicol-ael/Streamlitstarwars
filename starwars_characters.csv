@@ -1,0 +1,66 @@
+name,species,homeworld,height_cm,mass_kg,allegiance,force_sensitive,midi_chlorians,lightsaber_color,battles_fought,victories,credits_bounty,era,popularity_rating
+Luke Skywalker,Human,Tatooine,172,77.0,Rebel Alliance,True,14500,Blue,25,20,0,Original Trilogy,4.9
+Leia Organa,Human,Alderaan,150,49.0,Rebel Alliance,False,0,None,18,14,0,Original Trilogy,4.8
+Han Solo,Human,Corellia,180,80.0,Rebel Alliance,False,0,None,22,16,250000,Original Trilogy,4.9
+Chewbacca,Wookiee,Kashyyyk,228,112.0,Rebel Alliance,False,0,None,24,18,50000,Original Trilogy,4.5
+Lando Calrissian,Human,Unknown,177,79.0,Rebel Alliance,False,0,None,12,8,0,Original Trilogy,3.8
+Wedge Antilles,Human,Corellia,170,77.0,Rebel Alliance,False,0,None,15,12,0,Original Trilogy,3.2
+Admiral Ackbar,Mon Calamari,Mon Cala,180,83.0,Rebel Alliance,False,0,None,10,7,0,Original Trilogy,3.5
+Hera Syndulla,Twi'lek,Ryloth,170,55.0,Rebel Alliance,False,0,None,20,15,30000,Original Trilogy,3.5
+Cassian Andor,Human,Unknown,178,77.0,Rebel Alliance,False,0,None,16,11,0,Original Trilogy,3.8
+Jyn Erso,Human,Unknown,160,52.0,Rebel Alliance,False,0,None,8,5,50000,Original Trilogy,3.6
+K-2SO,Droid,Unknown,216,75.0,Rebel Alliance,False,0,None,8,6,0,Original Trilogy,3.4
+Chirrut Imwe,Human,Unknown,173,77.0,Rebel Alliance,False,0,None,10,8,0,Original Trilogy,3.7
+Rey,Human,Jakku,170,54.0,Rebel Alliance,True,15000,Yellow,15,12,0,Sequel Trilogy,4.3
+Finn,Human,Unknown,178,73.0,Rebel Alliance,False,0,None,10,6,0,Sequel Trilogy,3.5
+Poe Dameron,Human,Unknown,172,80.0,Rebel Alliance,False,0,None,18,14,0,Sequel Trilogy,3.8
+Darth Vader,Human,Tatooine,202,136.0,Galactic Empire,True,27000,Red,45,39,0,Original Trilogy,5.0
+Emperor Palpatine,Human,Naboo,170,75.0,Galactic Empire,True,20500,Red,15,13,0,Original Trilogy,4.5
+Grand Moff Tarkin,Human,Unknown,180,80.0,Galactic Empire,False,0,None,12,10,0,Original Trilogy,3.8
+Director Krennic,Human,Unknown,180,78.0,Galactic Empire,False,0,None,6,4,0,Original Trilogy,3.0
+General Veers,Human,Unknown,183,80.0,Galactic Empire,False,0,None,10,8,0,Original Trilogy,2.5
+Grand Admiral Thrawn,Unknown,Unknown,180,80.0,Galactic Empire,False,0,None,18,16,0,Original Trilogy,4.0
+Captain Phasma,Human,Unknown,200,76.0,Galactic Empire,False,0,None,8,5,0,Sequel Trilogy,2.8
+General Hux,Human,Unknown,185,76.0,Galactic Empire,False,0,None,6,3,0,Sequel Trilogy,2.5
+Kylo Ren,Human,Chandrila,189,89.0,Galactic Empire,True,15000,Red,18,12,0,Sequel Trilogy,4.0
+Moff Gideon,Human,Unknown,183,82.0,Galactic Empire,False,0,None,12,8,50000,Original Trilogy,3.5
+The Grand Inquisitor,Pau'an,Unknown,198,80.0,Galactic Empire,True,10000,Red,15,11,0,Original Trilogy,3.2
+Obi-Wan Kenobi,Human,Unknown,182,77.0,Jedi Order,True,13400,Blue,35,28,0,Prequel Trilogy,4.8
+Yoda,Unknown,Unknown,66,17.0,Jedi Order,True,18900,Green,30,27,0,Prequel Trilogy,4.9
+Mace Windu,Human,Unknown,188,84.0,Jedi Order,True,16000,Purple,28,23,0,Prequel Trilogy,4.3
+Ki-Adi-Mundi,Unknown,Unknown,198,82.0,Jedi Order,True,11500,Blue,15,10,0,Prequel Trilogy,2.8
+Plo Koon,Kel Dor,Unknown,188,80.0,Jedi Order,True,12000,Blue,18,14,0,Prequel Trilogy,3.2
+Aayla Secura,Twi'lek,Ryloth,172,55.0,Jedi Order,True,11000,Blue,14,10,0,Prequel Trilogy,3.0
+Kit Fisto,Nautolan,Unknown,196,87.0,Jedi Order,True,12500,Green,16,12,0,Prequel Trilogy,3.1
+Luminara Unduli,Unknown,Unknown,170,56.0,Jedi Order,True,10500,Green,12,9,0,Prequel Trilogy,2.7
+Ahsoka Tano,Togruta,Unknown,170,57.0,Jedi Order,True,13000,White,30,24,0,Prequel Trilogy,4.6
+Qui-Gon Jinn,Human,Coruscant,193,88.0,Jedi Order,True,14000,Green,20,16,0,Prequel Trilogy,4.2
+Anakin Skywalker,Human,Tatooine,188,84.0,Jedi Order,True,27000,Blue,35,30,0,Prequel Trilogy,4.7
+Kanan Jarrus,Human,Coruscant,190,80.0,Jedi Order,True,11500,Blue,15,11,0,Original Trilogy,3.5
+Darth Maul,Zabrak,Dathomir,175,80.0,Sith,True,15000,Red,20,14,500000,Prequel Trilogy,4.3
+Count Dooku,Human,Unknown,193,86.0,Sith,True,13500,Red,18,14,0,Prequel Trilogy,3.8
+Asajj Ventress,Unknown,Dathomir,180,58.0,Sith,True,12000,Red,22,15,200000,Prequel Trilogy,3.5
+Savage Opress,Zabrak,Dathomir,189,109.0,Sith,True,11000,Red,14,9,100000,Prequel Trilogy,2.8
+General Grievous,Unknown,Unknown,216,159.0,Sith,False,0,None,25,18,0,Prequel Trilogy,3.9
+Snoke,Unknown,Unknown,216,80.0,Sith,True,14000,None,5,4,0,Sequel Trilogy,3.0
+Boba Fett,Human,Kamino,183,78.0,Bounty Hunters,False,0,None,25,18,1500000,Original Trilogy,4.5
+Jango Fett,Human,Unknown,183,79.0,Bounty Hunters,False,0,None,20,15,2000000,Prequel Trilogy,3.9
+IG-88,Droid,Unknown,196,140.0,Bounty Hunters,False,0,None,15,10,800000,Original Trilogy,2.8
+Bossk,Unknown,Unknown,190,113.0,Bounty Hunters,False,0,None,18,12,750000,Original Trilogy,2.6
+Dengar,Human,Corellia,180,80.0,Bounty Hunters,False,0,None,12,7,400000,Original Trilogy,2.0
+Greedo,Unknown,Unknown,173,74.0,Bounty Hunters,False,0,None,8,3,150000,Original Trilogy,2.2
+Cad Bane,Unknown,Unknown,185,75.0,Bounty Hunters,False,0,None,22,16,1200000,Prequel Trilogy,3.7
+Din Djarin,Human,Unknown,180,80.0,Bounty Hunters,False,0,None,25,20,500000,Original Trilogy,4.5
+Padme Amidala,Human,Naboo,165,45.0,Neutral,False,0,None,8,5,0,Prequel Trilogy,4.2
+Jar Jar Binks,Unknown,Naboo,196,66.0,Neutral,False,0,None,3,1,0,Prequel Trilogy,1.5
+C-3PO,Droid,Tatooine,171,75.0,Neutral,False,0,None,5,2,0,Original Trilogy,3.8
+R2-D2,Droid,Naboo,96,32.0,Neutral,False,0,None,10,7,0,Original Trilogy,4.5
+BB-8,Droid,Unknown,67,18.0,Neutral,False,0,None,5,3,0,Sequel Trilogy,3.8
+Jabba the Hutt,Hutt,Nal Hutta,175,1358.0,Neutral,False,0,None,2,1,5000000,Original Trilogy,3.5
+Watto,Unknown,Unknown,137,60.0,Neutral,False,0,None,1,0,0,Prequel Trilogy,1.8
+Bail Organa,Human,Alderaan,191,85.0,Neutral,False,0,None,3,2,0,Prequel Trilogy,2.5
+Grogu,Unknown,Unknown,66,15.0,Neutral,True,18000,None,3,2,1000000,Original Trilogy,4.7
+Maz Kanata,Unknown,Takodana,124,44.0,Neutral,True,7000,None,5,3,0,Sequel Trilogy,3.0
+Lama Su,Unknown,Kamino,228,88.0,Neutral,False,0,None,1,0,0,Prequel Trilogy,1.0
+Nute Gunray,Unknown,Unknown,191,90.0,Neutral,False,0,None,2,0,0,Prequel Trilogy,1.8
+Saw Gerrera,Human,Unknown,178,80.0,Neutral,False,0,None,20,12,100000,Original Trilogy,3.0
