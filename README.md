@@ -4,7 +4,7 @@
 
 [Ver aplicación en vivo](https://appstarwars.streamlit.app)
 
-![Demo](assets/demo.png)
+![Demo](demo.png)
 
 ---
 
