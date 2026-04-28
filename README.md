@@ -36,13 +36,11 @@ Permite explorar datos mediante filtros dinámicos y visualizaciones interactiva
 ---
 
 ## ⚙️ Instalación
-
-```bash
 git clone https://github.com/Nicol-ael/starwars-dashboard.git
 cd starwars-dashboard
 pip install -r requirements.txt
-streamlit run app.py
-```
+streamlit run dashboard_starwars.py
+
 
 ---
 
