@@ -2,7 +2,9 @@
 
 ## 📸 Demo
 
-![Demo del proyecto](https://appstarwars.streamlit.app)
+[Ver aplicación en vivo](https://appstarwars.streamlit.app)
+
+![Demo](assets/demo.png)
 
 ---
 
